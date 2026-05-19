@@ -1,0 +1,123 @@
+[
+  {
+    "drug": "DIPHENHYDRAMINE",
+    "pubmed": [
+      {
+        "journal": "Journal of emergency nursing",
+        "date": "2019-01-01"
+      },
+      {
+        "journal": "Journal of emergency nursing",
+        "date": "2019-01-01"
+      },
+      {
+        "journal": "The Journal of pediatrics",
+        "date": "2019-01-02"
+      }
+    ],
+    "clinical_trials": [
+      {
+        "journal": "Journal of emergency nursing",
+        "date": "2020-01-01"
+      },
+      {
+        "journal": "Journal of emergency nursing",
+        "date": "2020-01-01"
+      },
+      {
+        "journal": "Journal of emergency nursing",
+        "date": "2020-01-01"
+      }
+    ]
+  },
+  {
+    "drug": "TETRACYCLINE",
+    "pubmed": [
+      {
+        "journal": "Journal of food protection",
+        "date": "2020-01-01"
+      },
+      {
+        "journal": "American journal of veterinary research",
+        "date": "2020-01-02"
+      },
+      {
+        "journal": "Psychopharmacology",
+        "date": "2020-01-01"
+      }
+    ],
+    "clinical_trials": []
+  },
+  {
+    "drug": "ETHANOL",
+    "pubmed": [
+      {
+        "journal": "Psychopharmacology",
+        "date": "2020-01-01"
+      }
+    ],
+    "clinical_trials": []
+  },
+  {
+    "drug": "ATROPINE",
+    "pubmed": [
+      {
+        "journal": "The journal of maternal-fetal & neonatal medicine",
+        "date": "2020-03-01"
+      }
+    ],
+    "clinical_trials": []
+  },
+  {
+    "drug": "EPINEPHRINE",
+    "pubmed": [
+      {
+        "journal": "The journal of allergy and clinical immunology. In practice",
+        "date": "2020-02-01"
+      },
+      {
+        "journal": "The journal of allergy and clinical immunology. In practice",
+        "date": "2020-03-01"
+      }
+    ],
+    "clinical_trials": [
+      {
+        "journal": "Journal of emergency nursing\\xc3\\x28",
+        "date": "2020-04-27"
+      }
+    ]
+  },
+  {
+    "drug": "ISOPRENALINE",
+    "pubmed": [
+      {
+        "journal": "Journal of photochemistry and photobiology. B, Biology",
+        "date": "2020-01-01"
+      }
+    ],
+    "clinical_trials": []
+  },
+  {
+    "drug": "BETAMETHASONE",
+    "pubmed": [
+      {
+        "journal": "The journal of maternal-fetal & neonatal medicine",
+        "date": "2020-01-01"
+      },
+      {
+        "journal": "Journal of back and musculoskeletal rehabilitation",
+        "date": "2020-01-01"
+      },
+      {
+        "journal": "The journal of maternal-fetal & neonatal medicine",
+        "date": "2020-03-01"
+      }
+    ],
+    "clinical_trials": [
+      {
+        "journal": "Hôpitaux Universitaires de Genève",
+        "date": "2020-01-01"
+      }
+    ]
+  }
+]
